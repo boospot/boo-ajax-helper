@@ -11,7 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @version 1.0
  *
  * @author RaoAbid | BooSpot
- * @link https://github.com/boospot/boo-ajaxy-helper
+ * @link https://github.com/boospot/boo-ajax-helper
  */
 if ( ! class_exists( 'Boo_Ajax_Helper' ) ):
 
